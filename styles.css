@@ -1,6 +1,9 @@
-
-/* Your CSS Code here. */
 .holder{
-display: flex;
-justify-content: center;
+	display:flex;
+	flex-wrap: wrap;
+	justify-content: center;	
+}
+
+.item{
+	width:100px;
 }
